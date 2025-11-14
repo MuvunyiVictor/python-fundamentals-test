@@ -4,7 +4,7 @@
 1. Complete all 15 programming problems in the `math_solver.py` file
 2. Each function has SPECIFIC input values to test with - call your functions with these values
 3. Test that your solutions work by running the code and checking the output
-4. Answer the two conceptual questions at the end in the comments
+4. Answer the thre conceptual questions at the end in the comments
 5. Submit by pushing your completed code
 
 ---
